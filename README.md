@@ -1,1 +1,1 @@
-https://imnephy.github.io/rsschool-cv/cv
+https://imnephy.github.io/rsschool-cv/
